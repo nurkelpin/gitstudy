@@ -1,0 +1,2 @@
+public class uyghur {
+}
